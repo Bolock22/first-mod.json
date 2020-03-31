@@ -9,14 +9,14 @@ type: itemturret
  innaccuracy: 12
  rotatespeed: 14
  ammo: {
-  copper: {
-  speed: 4
-  Damage: 4
-  bulletWidth: 5
-  bulletHeight: 5
-  shootEffect: shootSmall
-  smokeEffect: shootSmallsmoke
-  ammoMultiplier: 9
+   copper: {
+   speed: 4
+   Damage: 4
+   bulletWidth: 5
+   bulletHeight: 5
+   shootEffect: shootSmall
+   smokeEffect: shootSmallsmoke
+   ammoMultiplier: 9
   }
  }
  requirements:[ 
